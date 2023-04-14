@@ -5,4 +5,4 @@ A repository for Big Data Midterm Exam.
 NRP : 5025201097<br></b>
 
 1. Spark Streaming : <a href="" target="_blank">Click here</a>
-2. Recommendation Systems : <a href="" target="_blank">Click here</a>
+2. Recommendation Systems : <a href="https://colab.research.google.com/drive/1ANfC12reHBVenMlvDZVlFPOKXQccC2ZG?usp=sharing" target="_blank">Click here</a>
